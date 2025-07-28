@@ -1,0 +1,2 @@
+# awesome-yara
+Awesome YARA
