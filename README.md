@@ -9,6 +9,8 @@
 </p>
 
 
+## YARA Rules
+- [Signature-Base](https://github.com/Neo23x0/signature-base) - Signature-Base is the [YARA](https://virustotal.github.io/yara/) signature and IOC database for our scanners [LOKI](https://github.com/Neo23x0/Loki) and [THOR Lite](https://www.nextron-systems.com/thor-lite/).
 
 ### Tools
 - [Base64 Regular Expression Generator](https://labs.inquest.net/tools/yara/b64-regexp-generator) - YARA, Base64 Regular Expression Generator.
