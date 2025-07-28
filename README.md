@@ -8,3 +8,7 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+
+
+### Tools
+- [Base64 Regular Expression Generator](https://labs.inquest.net/tools/yara/b64-regexp-generator) - YARA, Base64 Regular Expression Generator
