@@ -11,5 +11,6 @@
 
 
 ### Tools
-- [Base64 Regular Expression Generator](https://labs.inquest.net/tools/yara/b64-regexp-generator) - YARA, Base64 Regular Expression Generator
-- [Mixed Hex Case Generator](https://labs.inquest.net/tools/yara/iq-mixed-case) - YARA, Mixed Hex Case Generator
+- [Base64 Regular Expression Generator](https://labs.inquest.net/tools/yara/b64-regexp-generator) - YARA, Base64 Regular Expression Generator.
+- [Mixed Hex Case Generator](https://labs.inquest.net/tools/yara/iq-mixed-case) - YARA, Mixed Hex Case Generator.
+- [UInt() Trigger Generator](https://labs.inquest.net/tools/yara/iq-uint-trigger) - YARA, UInt() Trigger Generator
