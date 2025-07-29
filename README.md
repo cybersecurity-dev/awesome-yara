@@ -14,6 +14,9 @@
 - [InQuest](https://github.com/InQuest/yara-rules) - A collection of YARA rules we wish to share with the world, most probably referenced from [http://blog.inquest.net](http://blog.inquest.net).
 - [Signature-Base](https://github.com/Neo23x0/signature-base) - Signature-Base is the [YARA](https://virustotal.github.io/yara/) signature and IOC database for our scanners [LOKI](https://github.com/Neo23x0/Loki) and [THOR Lite](https://www.nextron-systems.com/thor-lite/).
 
+### [YARA-X](https://github.com/VirusTotal/yara-x)
+- [YARA-X](https://github.com/VirusTotal/yara-x) - YARA-X is a re-incarnation of YARA, a pattern matching tool designed with malware researchers in mind. This new incarnation intends to be faster, safer and more user-friendly than its predecessor. The ultimate goal of [YARA-X](https://virustotal.github.io/yara-x/) is replacing YARA as the default pattern matching tool for malware researchers.
+
 ### Tools
 - [Base64 Regular Expression Generator](https://labs.inquest.net/tools/yara/b64-regexp-generator) - YARA, Base64 Regular Expression Generator.
 - [CIDR Block RegEx Generator](https://labs.inquest.net/tools/yara/iq-cidr2regexp) - YARA, CIDR Block RegEx Generator.
