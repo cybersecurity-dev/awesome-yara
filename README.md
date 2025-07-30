@@ -11,6 +11,7 @@
 
 ## [YARA](https://github.com/VirusTotal/yara) [Rules](https://yara.readthedocs.io/en/latest/)
 - [DefenderYara](https://github.com/roadwy/DefenderYara) - Extracted Yara rules from Windows Defender mpavbase and mpasbase.
+- [fsYara](https://github.com/filescanio/fsYara) - A collection of curated YARA rules used as part of the [Filescan.io](https://www.filescan.io/) service.
 - [InQuest](https://github.com/InQuest/yara-rules) - A collection of YARA rules we wish to share with the world, most probably referenced from [http://blog.inquest.net](http://blog.inquest.net).
 - [Signature-Base](https://github.com/Neo23x0/signature-base) - Signature-Base is the [YARA](https://virustotal.github.io/yara/) signature and IOC database for our scanners [LOKI](https://github.com/Neo23x0/Loki) and [THOR Lite](https://www.nextron-systems.com/thor-lite/).
 
