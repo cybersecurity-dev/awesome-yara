@@ -9,6 +9,14 @@
 </p>
 
 
+## 📖 Contents
+- [YARA Rules](#yara-rules)
+- [YARA-X](#yara-x)
+- [Tools](#tools)
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
 ## [YARA](https://github.com/VirusTotal/yara) [Rules](https://yara.readthedocs.io/en/latest/)
 - [DefenderYara](https://github.com/roadwy/DefenderYara) - Extracted Yara rules from Windows Defender mpavbase and mpasbase.
 - [fsYara](https://github.com/filescanio/fsYara) - A collection of curated YARA rules used as part of the [Filescan.io](https://www.filescan.io/) service.
@@ -23,3 +31,16 @@
 - [CIDR Block RegEx Generator](https://labs.inquest.net/tools/yara/iq-cidr2regexp) - YARA, CIDR Block RegEx Generator.
 - [Mixed Hex Case Generator](https://labs.inquest.net/tools/yara/iq-mixed-case) - YARA, Mixed Hex Case Generator.
 - [UInt() Trigger Generator](https://labs.inquest.net/tools/yara/iq-uint-trigger) - YARA, UInt() Trigger Generator.
+
+##
+
+### My Other Awesome Lists
+You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-yara/graphs/contributors)!
+
+[🔼 Back to top](#awesome-yara-)
