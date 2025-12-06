@@ -1,11 +1,14 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/YARA">
-      <img width="40%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/YARA_rules_logo.jpg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://wikipedia.org/wiki/YARA">
+          <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/YARA_rules_logo.jpg" />
+        </a>
+    </p>
 
-# Awesome [YARA](https://en.wikipedia.org/wiki/YARA) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
+# **`Awesome`** [YARA](https://wikipedia.org/wiki/YARA) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
 
 <p align="center">
