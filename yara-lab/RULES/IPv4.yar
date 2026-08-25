@@ -1,4 +1,4 @@
-rule Detect_Embedded_IPv4
+rule Detect_Embedded_IPv4 : Network
 {
     meta:
         description = "Detects IPv4 addresses stored as strings"
