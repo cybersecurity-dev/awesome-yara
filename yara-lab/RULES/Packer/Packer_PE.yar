@@ -18,7 +18,9 @@ rule Small_Section_Count_PE : GenericPackedPeDetection SuspiciousPE
 rule High_Entropy_PE : GenericPackedPeDetection SuspiciousPE
 {
     meta:
+	      author      = "Cyber Threat Defense"
         description = "Suspicious high-entropy PE"
+		    date        = "2026-08"        
 
     condition:
         uint16(0) == 0x5A4D and
