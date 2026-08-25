@@ -1,4 +1,4 @@
-rule Detect_Internal_Private_IP
+rule Detect_Internal_Private_IP : Network
 {
     strings:
         $s1 = /10\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}/ ascii
