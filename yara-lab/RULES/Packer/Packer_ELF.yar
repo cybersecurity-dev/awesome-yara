@@ -1,3 +1,4 @@
+import "elf"
 import "math"
 
 rule Small_Section_Count_ELF : GenericPackedElfDetection SuspiciousELF
