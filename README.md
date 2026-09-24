@@ -1,9 +1,98 @@
 <div align="center">
     <p align="center">
         <a href="https://wikipedia.org/wiki/YARA">
-          <img width="30%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/YARA_rules_logo.jpg" />
+          <img width="20%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/YARA_rules_logo.jpg" />
         </a>
     </p>
+
+```mermaid
+mindmap
+  root((YARA Rule<br/>Toolkit))
+    Rule Development
+      Meta Section
+        Author
+        Description
+        Version
+        Date
+      Strings Section
+        ASCII Strings
+        Wide Strings
+        Hex Strings
+        Regex Patterns
+        Base64 Strings
+      Condition Section
+        Boolean Operators
+        String Matching
+        File Size Checks
+        PE Attributes
+        ELF Attributes
+        Hash Matching
+
+    File Analysis
+      PE Files
+        Imports
+        Exports
+        Sections
+        Resources
+      ELF Files
+        Headers
+        Symbols
+        Sections
+      Documents
+        PDF
+        Office
+      Archives
+        ZIP
+        RAR
+
+    Malware Detection
+      Ransomware
+      Trojans
+      Backdoors
+      Rootkits
+      Worms
+      Banking Malware
+      Cryptominers
+
+    Advanced Modules
+      PE Module
+      ELF Module
+      Hash Module
+      Magic Module
+      Dotnet Module
+      Math Module
+      Time Module
+
+    Rule Management
+      Rule Repositories
+        Yara-Rules
+        Neo23x0
+        Elastic Rules
+      Rule Testing
+      Rule Tuning
+      False Positive Reduction
+      Version Control
+
+    Automation
+      VirusTotal
+      SIEM Integration
+      SOAR Integration
+      EDR Integration
+      CI/CD Pipeline
+
+    Threat Intelligence
+      IOCs
+      TTPs
+      MITRE ATT&CK
+      Malware Families
+      Campaign Detection
+
+    Performance
+      Rule Optimization
+      Fast Pattern Matching
+      Scan Scheduling
+      Resource Monitoring
+```
 
 # **`Awesome`** [YARA](https://wikipedia.org/wiki/YARA) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
@@ -20,7 +109,6 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
-
 ## 📖 Contents
 - [YARA Rules](#yara-rules)
 - [YARA-X](#yara-x)
@@ -28,6 +116,56 @@
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+
+```text
+YARA Toolkit
+│
+├── Rule Authoring
+│   ├── Meta
+│   ├── Strings
+│   └── Conditions
+│
+├── Analysis Targets
+│   ├── PE
+│   ├── ELF
+│   ├── APK
+│   ├── Office
+│   ├── PDF
+│   └── Memory Dump
+│
+├── Modules
+│   ├── PE
+│   ├── ELF
+│   ├── Hash
+│   ├── Math
+│   ├── Time
+│   ├── DotNet
+│   └── Magic
+│
+├── Detection Operations
+│   ├── Malware Detection
+│   ├── Threat Hunting
+│   ├── Incident Response
+│   ├── IOC Matching
+│   └── Memory Scanning
+│
+├── Automation
+│   ├── EDR
+│   ├── SIEM
+│   ├── SOAR
+│   ├── CI/CD
+│   └── Threat Intel Feeds
+│
+└── Ecosystem Tools
+    ├── yara
+    ├── yarac
+    ├── Loki
+    ├── THOR
+    ├── Velociraptor
+    ├── VirusTotal
+    └── Sigma2YARA
+```
 
 ## [YARA](https://github.com/VirusTotal/yara) [Rules](https://yara.readthedocs.io/en/latest/)
 - [DefenderYara](https://github.com/roadwy/DefenderYara) - Extracted Yara rules from Windows Defender mpavbase and mpasbase.
